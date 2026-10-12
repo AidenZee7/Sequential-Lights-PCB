@@ -6,6 +6,15 @@ Solar Gators, a solar race car organization at the University of Florida, partic
 # Design Choices
 I used xx, yy, zz
 
+# Buck Converter
+
+# Timer
+
+# Shift Register & Counter
+incl alternating signal, race condition
+
+# LEDs
+
 
 
 
